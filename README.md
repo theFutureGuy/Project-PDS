@@ -28,4 +28,11 @@ The central dashboard derives the data from the smart contract implemented in th
 
 
 The ration outlet dashboard:
+     This folder consists of the screen that is visible in every ration shop.
+     It is the personalized dashboard for ration shopkeepers and can give details of the monthly allocated stocks for that shop and for the individual people that is to be given.
+     it is retrived from blockchain and confirmed by smart contracts.
+     
+     ![image](https://user-images.githubusercontent.com/98336464/183240090-f7742076-431b-4f74-a13b-8a80411d28f6.png)
+
+
 
