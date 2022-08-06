@@ -32,7 +32,11 @@ The ration outlet dashboard:
      ![dashboard](https://user-images.githubusercontent.com/98336464/183240266-88c19c97-b376-4d62-905d-699fde3ac20c.png)
 It is the personalized dashboard for ration shopkeepers and can give details of the monthly allocated stocks for that shop and for the individual people that is to be given.
      it is retrived from blockchain and confirmed by smart contracts.
-     
+
+
+The 'beneficiaries claim' form given at the bottom is to mimic the swiping of the 'advanced' ration card that contains the information of the beneficiary, his amount of ration he is entitled to among other information.
+
+This advanced ration card is connected directly to the blockchain and transactions made through this card will be reflected in the smart contract running in the blockchain. A detailed information on the working of this 'advanced' ration card will be given at a later stage of the project. 
 
 
 
